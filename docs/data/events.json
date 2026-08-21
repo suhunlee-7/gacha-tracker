@@ -1,0 +1,645 @@
+{
+ "updated": "2026-08-21T12:33:38+09:00",
+ "events": [
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "Last and First Principles",
+   "start": "2026-07-02T19:00:00+09:00",
+   "end": "2026-07-22T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/Last_and_First_Principles",
+   "name_ko": null,
+   "extra": {
+    "version": "3.6",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:last-and-first-principles:2026-07-02"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "Complete Induction",
+   "start": "2026-07-02T19:00:00+09:00",
+   "end": "2026-07-23T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/Complete_Induction",
+   "name_ko": null,
+   "extra": {
+    "version": "3.6",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:complete-induction:2026-07-02"
+  },
+  {
+   "game": "arknights",
+   "kind": "event",
+   "name": "Languid Sentiment",
+   "start": "2026-07-06T17:00:00+09:00",
+   "end": "2026-07-27T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/Languid_Sentiment",
+   "name_ko": null,
+   "extra": {},
+   "id": "arknights:event:languid-sentiment:2026-07-06"
+  },
+  {
+   "game": "nte",
+   "kind": "event",
+   "name": "버전 1.2",
+   "start": "2026-07-07T23:00:00+09:00",
+   "end": "2026-08-19T18:59:59+09:00",
+   "url": "https://neverness-to-everness.fandom.com/wiki/Version/1.2",
+   "name_ko": null,
+   "extra": {
+    "events": [
+     "999 Nights",
+     "Shadow-n-Seek",
+     "Going, Going, Gone!",
+     "Fishing Frenzy",
+     "Warren Lucky Flip"
+    ]
+   },
+   "id": "nte:event:버전-1-2:2026-07-07"
+  },
+  {
+   "game": "arknights",
+   "kind": "banner",
+   "name": "Ashes to Ashes, Ages on Ages",
+   "start": "2026-07-16T15:00:00+09:00",
+   "end": "2026-07-30T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/Headhunting",
+   "name_ko": null,
+   "extra": {
+    "operators": [
+     "Ch'en the Dawnstreak",
+     "Chongyue",
+     "Shu",
+     "Taraxacum",
+     "Yu",
+     "Wang"
+    ],
+    "banner_type": "festival"
+   },
+   "id": "arknights:banner:ashes-to-ashes-ages-on-ages:2026-07-16"
+  },
+  {
+   "game": "arknights",
+   "kind": "event",
+   "name": "First of A Thousand Autumns",
+   "start": "2026-07-16T17:00:00+09:00",
+   "end": "2026-08-06T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns",
+   "name_ko": null,
+   "extra": {},
+   "id": "arknights:event:first-of-a-thousand-autumns:2026-07-16"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "Welcome to the Future",
+   "start": "2026-07-16T19:00:00+09:00",
+   "end": "2026-07-23T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/Welcome_to_the_Future",
+   "name_ko": null,
+   "extra": {
+    "version": "3.6",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:welcome-to-the-future:2026-07-16"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "Polymerized Dreams",
+   "start": "2026-07-23T19:00:00+09:00",
+   "end": "2026-08-12T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/Polymerized_Dreams",
+   "name_ko": null,
+   "extra": {
+    "version": "S02",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:polymerized-dreams:2026-07-23"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "Back to Chelomey",
+   "start": "2026-07-23T19:00:00+09:00",
+   "end": "2026-08-13T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/Back_to_Chelomey",
+   "name_ko": null,
+   "extra": {
+    "version": "S02",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:back-to-chelomey:2026-07-23"
+  },
+  {
+   "game": "zzz",
+   "kind": "event",
+   "name": "여름과 함께 온 파도",
+   "start": "2026-07-28T11:00:00+09:00",
+   "end": "2026-09-07T04:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "여름과 함께 온 파도",
+   "extra": {
+    "polychrome": 1050,
+    "image": "https://static.wikia.nocookie.net/zenless-zone-zero/images/7/74/Event_Summer_Waves_Roll_In.png/revision/latest?cb=20260728105732"
+   },
+   "id": "zzz:event:여름과-함께-온-파도:2026-07-28"
+  },
+  {
+   "game": "zzz",
+   "kind": "event",
+   "name": "마르셀 주년 기념 선물",
+   "start": "2026-07-29T07:00:00+09:00",
+   "end": "2026-09-09T06:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "마르셀 주년 기념 선물",
+   "extra": {
+    "polychrome": 1600,
+    "image": null
+   },
+   "id": "zzz:event:마르셀-주년-기념-선물:2026-07-29"
+  },
+  {
+   "game": "zzz",
+   "kind": "event",
+   "name": "파에톤 연례 대공개",
+   "start": "2026-07-29T07:00:00+09:00",
+   "end": "2026-09-09T06:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "파에톤 연례 대공개",
+   "extra": {
+    "polychrome": 160,
+    "image": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/55/Event_Phaethon%27s_Grand_Reveal_of_the_Year.png/revision/latest?cb=20260729034750"
+   },
+   "id": "zzz:event:파에톤-연례-대공개:2026-07-29"
+  },
+  {
+   "game": "zzz",
+   "kind": "banner",
+   "name": "레미엘 픽업",
+   "start": "2026-07-29T11:00:00+09:00",
+   "end": "2026-09-08T15:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "레미엘 픽업",
+   "extra": {
+    "version": "3.1",
+    "banner_type": "GACHA_TYPE_CHARACTER_UP",
+    "agents": [
+     "레미엘",
+     "파이퍼",
+     "세스"
+    ],
+    "icons": [
+     "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1581.png"
+    ]
+   },
+   "id": "zzz:banner:레미엘:2026-07-29"
+  },
+  {
+   "game": "zzz",
+   "kind": "banner",
+   "name": "실낙원 픽업 (W-엔진)",
+   "start": "2026-07-29T11:00:00+09:00",
+   "end": "2026-09-08T15:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "실낙원 픽업 (W-엔진)",
+   "extra": {
+    "version": "3.1",
+    "banner_type": "GACHA_TYPE_WEAPON_UP",
+    "agents": [],
+    "icons": []
+   },
+   "id": "zzz:banner:실낙원:2026-07-29"
+  },
+  {
+   "game": "arknights",
+   "kind": "banner",
+   "name": "Entelechia, Mon3tr, Haruka 픽업",
+   "start": "2026-07-30T15:00:00+09:00",
+   "end": "2026-08-13T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/Headhunting",
+   "name_ko": null,
+   "extra": {
+    "operators": [
+     "Entelechia",
+     "Mon3tr",
+     "Haruka",
+     "Ascalon",
+     "Vina Victoria",
+     "Vulpisfoglia",
+     "Quercus",
+     "Vetochki",
+     "Mitm",
+     "Santalla",
+     "Lunacub",
+     "Alanna"
+    ],
+    "banner_type": "orient"
+   },
+   "id": "arknights:banner:entelechia-mon3tr-haruka-픽업:2026-07-30"
+  },
+  {
+   "game": "arknights",
+   "kind": "event",
+   "name": "Vector Breakthrough Trial from Misery",
+   "start": "2026-07-30T17:00:00+09:00",
+   "end": "2026-08-20T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/Vector_Breakthrough_Trial_from_Misery",
+   "name_ko": null,
+   "extra": {},
+   "id": "arknights:event:vector-breakthrough-trial-from-misery:2026-07-30"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "Call from the Alma Mater",
+   "start": "2026-08-06T19:00:00+09:00",
+   "end": "2026-08-13T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/Call_from_the_Alma_Mater",
+   "name_ko": null,
+   "extra": {
+    "version": "S02",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:call-from-the-alma-mater:2026-08-06"
+  },
+  {
+   "game": "zzz",
+   "kind": "event",
+   "name": "찰칵! 스포트라이트 대결!",
+   "start": "2026-08-07T11:00:00+09:00",
+   "end": "2026-08-24T04:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "찰칵! 스포트라이트 대결!",
+   "extra": {
+    "polychrome": 360,
+    "image": "https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a9/Event_Snap%21_Focus_Showdown%21.png/revision/latest?cb=20260806051317"
+   },
+   "id": "zzz:event:찰칵-스포트라이트-대결:2026-08-07"
+  },
+  {
+   "game": "arknights",
+   "kind": "banner",
+   "name": "By My Rules",
+   "start": "2026-08-13T15:00:00+09:00",
+   "end": "2026-08-27T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/Headhunting",
+   "name_ko": null,
+   "extra": {
+    "operators": [
+     "Bellone",
+     "Ripresa",
+     "Snow Hunter"
+    ],
+    "banner_type": "special"
+   },
+   "id": "arknights:banner:by-my-rules:2026-08-13"
+  },
+  {
+   "game": "arknights",
+   "kind": "event",
+   "name": "Crossing",
+   "start": "2026-08-13T17:00:00+09:00",
+   "end": "2026-08-20T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/Crossing",
+   "name_ko": null,
+   "extra": {},
+   "id": "arknights:event:crossing:2026-08-13"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "On Another's Sorrow",
+   "start": "2026-08-13T19:00:00+09:00",
+   "end": "2026-09-21T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/On_Another%27s_Sorrow",
+   "name_ko": null,
+   "extra": {
+    "version": "3.7",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:on-another-s-sorrow:2026-08-13"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "The You That's Meant to Be",
+   "start": "2026-08-13T19:00:00+09:00",
+   "end": "2026-09-24T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/The_You_That%27s_Meant_to_Be",
+   "name_ko": null,
+   "extra": {
+    "version": "3.7",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:the-you-that-s-meant-to-be:2026-08-13"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "8-Bit Arcade Remix",
+   "start": "2026-08-13T19:00:00+09:00",
+   "end": "2026-09-24T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/Beach_Battle",
+   "name_ko": null,
+   "extra": {
+    "version": "3.7",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:8-bit-arcade-remix:2026-08-13"
+  },
+  {
+   "game": "zzz",
+   "kind": "event",
+   "name": "바삭바삭 요리 플랜",
+   "start": "2026-08-19T11:00:00+09:00",
+   "end": "2026-09-07T04:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "바삭바삭 요리 플랜",
+   "extra": {
+    "polychrome": 300,
+    "image": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/53/Event_Crispy_Meal_Deployment_Plan.png/revision/latest?cb=20260818143200"
+   },
+   "id": "zzz:event:바삭바삭-요리-플랜:2026-08-19"
+  },
+  {
+   "game": "zzz",
+   "kind": "banner",
+   "name": "시그리드 픽업",
+   "start": "2026-08-19T13:00:00+09:00",
+   "end": "2026-09-08T15:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "시그리드 픽업",
+   "extra": {
+    "version": "3.1",
+    "banner_type": "GACHA_TYPE_CHARACTER_UP",
+    "agents": [
+     "시그리드",
+     "소우카쿠",
+     "루시"
+    ],
+    "icons": [
+     "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1591.png"
+    ]
+   },
+   "id": "zzz:banner:시그리드:2026-08-19"
+  },
+  {
+   "game": "zzz",
+   "kind": "banner",
+   "name": "다이아린, 유즈하, 하루마사 픽업",
+   "start": "2026-08-19T13:00:00+09:00",
+   "end": "2026-09-08T15:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "다이아린, 유즈하, 하루마사 픽업",
+   "extra": {
+    "version": "3.1",
+    "banner_type": "GACHA_TYPE_CHARACTER_RETURN",
+    "agents": [
+     "다이아린",
+     "유즈하",
+     "하루마사"
+    ],
+    "icons": [
+     "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1481.png",
+     "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1411.png",
+     "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1201.png"
+    ]
+   },
+   "id": "zzz:banner:다이아린-유즈하-하루마사:2026-08-19"
+  },
+  {
+   "game": "zzz",
+   "kind": "banner",
+   "name": "기사의 세리모니 픽업 (W-엔진)",
+   "start": "2026-08-19T13:00:00+09:00",
+   "end": "2026-09-08T15:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "기사의 세리모니 픽업 (W-엔진)",
+   "extra": {
+    "version": "3.1",
+    "banner_type": "GACHA_TYPE_WEAPON_UP",
+    "agents": [],
+    "icons": []
+   },
+   "id": "zzz:banner:기사의-세리모니:2026-08-19"
+  },
+  {
+   "game": "zzz",
+   "kind": "banner",
+   "name": "7×24, 정교한 기교, 인내의 공덕 픽업 (W-엔진)",
+   "start": "2026-08-19T13:00:00+09:00",
+   "end": "2026-09-08T15:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "7×24, 정교한 기교, 인내의 공덕 픽업 (W-엔진)",
+   "extra": {
+    "version": "3.1",
+    "banner_type": "GACHA_TYPE_WEAPON_RETURN",
+    "agents": [],
+    "icons": []
+   },
+   "id": "zzz:banner:7-24-정교한-기교-인내의-공덕:2026-08-19"
+  },
+  {
+   "game": "nte",
+   "kind": "event",
+   "name": "버전 1.3",
+   "start": "2026-08-19T23:00:00+09:00",
+   "end": "2026-09-30T18:59:59+09:00",
+   "url": "https://neverness-to-everness.fandom.com/wiki/Version/1.3",
+   "name_ko": null,
+   "extra": {
+    "events": [
+     "Volley Star",
+     "Surf Breaker",
+     "Hunter's Crucible",
+     "Stamina Recharge",
+     "Shipwreck Salvage",
+     "Gold Clash",
+     "Runaway Echoes",
+     "Breezy Tour",
+     "Pixel Surge",
+     "Fons Rush"
+    ]
+   },
+   "id": "nte:event:버전-1-3:2026-08-19"
+  },
+  {
+   "game": "nte",
+   "kind": "banner",
+   "name": "Zankou, Nanally 픽업",
+   "start": "2026-08-19T23:00:00+09:00",
+   "end": "2026-09-09T13:00:00+09:00",
+   "url": "https://neverness-to-everness.fandom.com/wiki/Version/1.3",
+   "name_ko": null,
+   "extra": {
+    "version": "1.3",
+    "half": "first",
+    "featured": [
+     "Zankou",
+     "Nanally"
+    ]
+   },
+   "id": "nte:banner:zankou-nanally-픽업:2026-08-19"
+  },
+  {
+   "game": "arknights",
+   "kind": "banner",
+   "name": "Mantra, Ulpianus, Narantuya 픽업",
+   "start": "2026-08-20T16:00:00+09:00",
+   "end": "2026-09-03T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/Headhunting",
+   "name_ko": null,
+   "extra": {
+    "operators": [
+     "Mantra",
+     "Ulpianus",
+     "Narantuya",
+     "Reed the Flame Shadow",
+     "Grain Buds",
+     "Harmonie",
+     "Tippi",
+     "Cantabile",
+     "Figurino",
+     "Cairn"
+    ],
+    "banner_type": "jo"
+   },
+   "id": "arknights:banner:mantra-ulpianus-narantuya-픽업:2026-08-20"
+  },
+  {
+   "game": "arknights",
+   "kind": "event",
+   "name": "Stronghold Protocol Alliance Part 2",
+   "start": "2026-08-20T17:00:00+09:00",
+   "end": "2026-10-01T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/Stronghold_Protocol_Alliance_Part_2",
+   "name_ko": null,
+   "extra": {},
+   "id": "arknights:event:stronghold-protocol-alliance-part-2:2026-08-20"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "Truth a Posteriori",
+   "start": "2026-08-22T19:00:00+09:00",
+   "end": "2026-09-24T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/Truth_a_Posteriori",
+   "name_ko": null,
+   "extra": {
+    "version": "3.7",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:truth-a-posteriori:2026-08-22"
+  },
+  {
+   "game": "zzz",
+   "kind": "event",
+   "name": "위험한 수배범과 여유로운 휴가",
+   "start": "2026-08-24T11:00:00+09:00",
+   "end": "2026-09-07T04:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "위험한 수배범과 여유로운 휴가",
+   "extra": {
+    "polychrome": 300,
+    "image": null
+   },
+   "id": "zzz:event:위험한-수배범과-여유로운-휴가:2026-08-24"
+  },
+  {
+   "game": "arknights",
+   "kind": "event",
+   "name": "When Elegies Are Ashes/Rerun",
+   "start": "2026-08-27T17:00:00+09:00",
+   "end": "2026-09-06T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes",
+   "name_ko": null,
+   "extra": {},
+   "id": "arknights:event:when-elegies-are-ashes-rerun:2026-08-27"
+  },
+  {
+   "game": "zzz",
+   "kind": "event",
+   "name": "딩동! 견습 우체부 배달 중",
+   "start": "2026-08-28T11:00:00+09:00",
+   "end": "2026-09-14T04:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "딩동! 견습 우체부 배달 중",
+   "extra": {
+    "polychrome": 420,
+    "image": null
+   },
+   "id": "zzz:event:딩동-견습-우체부-배달-중:2026-08-28"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "A Stranger to Memory Lane",
+   "start": "2026-09-03T19:00:00+09:00",
+   "end": "2026-09-24T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/A_Stranger_to_Memory_Lane",
+   "name_ko": null,
+   "extra": {
+    "version": null,
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:a-stranger-to-memory-lane:2026-09-03"
+  },
+  {
+   "game": "nte",
+   "kind": "banner",
+   "name": "Linko, Hotori 픽업",
+   "start": "2026-09-09T13:00:00+09:00",
+   "end": "2026-09-30T18:59:59+09:00",
+   "url": "https://neverness-to-everness.fandom.com/wiki/Version/1.3",
+   "name_ko": null,
+   "extra": {
+    "version": "1.3",
+    "half": "second",
+    "featured": [
+     "Linko",
+     "Hotori"
+    ]
+   },
+   "id": "nte:banner:linko-hotori-픽업:2026-09-09"
+  },
+  {
+   "game": "arknights",
+   "kind": "event",
+   "name": "People, A People",
+   "start": "2026-09-16T17:00:00+09:00",
+   "end": "2026-09-30T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/People%2C_A_People",
+   "name_ko": null,
+   "extra": {},
+   "id": "arknights:event:people-a-people:2026-09-16"
+  },
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "What Does a Brick Want",
+   "start": "2026-09-17T19:00:00+09:00",
+   "end": "2026-09-24T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/What_Does_a_Brick_Want",
+   "name_ko": null,
+   "extra": {
+    "version": "3.7",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:what-does-a-brick-want:2026-09-17"
+  },
+  {
+   "game": "arknights",
+   "kind": "event",
+   "name": "Critical Phase Transition",
+   "start": "2026-10-14T17:00:00+09:00",
+   "end": "2026-10-28T10:59:59+09:00",
+   "url": "https://arknights.wiki.gg/wiki/Critical_Phase_Transition",
+   "name_ko": null,
+   "extra": {},
+   "id": "arknights:event:critical-phase-transition:2026-10-14"
+  }
+ ]
+}
