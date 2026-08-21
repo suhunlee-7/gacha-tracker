@@ -1,0 +1,9 @@
+[project]
+name = "gacha-tracker"
+version = "0.1.0"
+description = "4개 게임(젠존제/명일방주/리버스1999/이환) 이벤트·픽업 트래커"
+requires-python = ">=3.11"
+dependencies = ["httpx", "genshin"]
+
+[dependency-groups]
+dev = ["pytest"]

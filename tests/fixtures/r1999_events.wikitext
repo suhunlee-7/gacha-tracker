@@ -1,0 +1,629 @@
+A list of all events available in the Global Version of [[Reverse: 1999]].
+__TOC__
+==Version Events==
+Version Events are the main events of each version, as they come with new stories and gameplay featuring the newly introduced characters.
+{| class="wikitable sortable" style="width: 100%; font-size: 100%; text-align: center;"
+! width="35%" | Event
+! width="40%" | Time Period
+! width="5%" | Version
+|-
+|[[File:The Theft of the Rimet Cup_Banner.jpg|400px|link=The Theft of the Rimet Cup]] <br> '''[[The Theft of the Rimet Cup]]''' 
+|November 9th, 05:00 - December 4th, 2023, 04:59 (UTC-5)
+|[[Version 1.1|1.1]]
+|-
+|[[File:A Nightmare at Green Lake_Banner.png|400px|link=A Nightmare at Green Lake]] <br> '''[[A Nightmare at Green Lake]]''' 
+|December 7th, 2023, 05:00 - January 15th, 2024, 04:59 (UTC-5)
+|[[Version 1.2|1.2]]
+|-
+|[[File:Journey to Mor Pankh Banner.png|400px|link=Journey to Mor Pankh]]<br> '''[[Journey to Mor Pankh]]'''
+|January 18th, 05:00 - February 26th, 2024, 04:59 (UTC-5)
+|[[Version 1.3|1.3]]
+|-
+|[[File:The Prisoner in the Cave Banner.png|400px|link=The Prisoner in the Cave (Event)]]<br>'''[[The Prisoner in the Cave (Event)|The Prisoner in the Cave]]'''
+|February 29th, 05:00 - April 15th, 2024, 04:59 (UTC-5)
+|[[Version 1.4|1.4]]
+|-
+|[[File:Revival! The Uluru Games Banner.png|400px|link=Revival! The Uluru Games]]<br>'''[[Revival! The Uluru Games]]'''
+|April 18th, 05:00 - May 27th, 2024, 04:59 (UTC-5)
+|[[Version 1.5|1.5]]
+|-
+|[[File:Notes on Shuori Banner.png|400px|link=Notes on Shuori]]<br>'''[[Notes on Shuori]]'''
+|May 30th, 05:00 - July 8th, 2024, 04:59 (UTC-5)
+|[[Version 1.6|1.6]]
+|-
+|[[File:E lucevan le stelle Banner.png|400px|link=E lucevan le stelle (Event)]]<br>'''[[E lucevan le stelle (Event)|E lucevan le stelle]]'''
+|July 11th, 05:00 - August 15th, 2024, 04:59 (UTC-5)
+|[[Version 1.7|1.7]]
+|-
+|[[File:Farewell, Rayashki Banner.png|400px|link=Farewell, Rayashki]]<br>'''[[Farewell, Rayashki]]'''
+|August 15th, 05:00 - September 16th, 2024, 04:59 (UTC-5)
+|[[Version 1.8|1.8]]
+|-
+|[[File:Vereinsamt Banner.png|400px|link=Vereinsamt (Event)]]<br>'''[[Vereinsamt (Event)|Vereinsamt]]'''
+|September 19th, 05:00 - October 28th, 2024, 04:59 (UTC-5)
+|[[Version 1.9|1.9]]
+|-
+|[[File:Floor it! To the Golden City Banner.png|400px|link=Floor It! To the Golden City]]<br>'''[[Floor It! To the Golden City]]'''
+|October 31st, 05:00 - December 2nd, 2024, 04:59 (UTC-5)
+|[[Version 2.0|2.0]]
+|-
+|[[File:Route 77 The Haunted Highway Banner.png|400px|link=Route 77: The Haunted Highway]]<br>'''[[Route 77: The Haunted Highway]]'''
+|December 5th, 2024, 05:00 - January 6th, 2025, 04:59 (UTC-5)
+|[[Version 2.1|2.1]]
+|-
+|[[File:Tristes Tropiques Banner.png|400px|link=Tristes Tropiques (Event)]]<br>'''[[Tristes Tropiques (Event)|Tristes Tropiques]]'''
+|January 9th, 05:00 - February 17th, 2025, 04:59 (UTC-5)
+|[[Version 2.2|2.2]]
+|-
+|[[File:Chronicles of Uluru London Dawning Banner.png|400px|link=Chronicles of Uluru: London Dawning]]<br>'''[[Chronicles of Uluru: London Dawning]]'''
+|February 20th, 05:00 - March 24th, 2025, 04:59 (UTC-5)
+|[[Version 2.3|2.3]]
+|-
+|[[File:Last Evenings on Earth Banner.png|400px|link=Last Evenings on Earth]]<br>'''[[Last Evenings on Earth]]'''
+|March 27th, 05:00 - April 23rd, 2025, 04:59 (UTC-5)
+|[[Version 2.4|2.4]]
+|-
+|[[File:Showdown in Chinatown Banner.png|400px|link=Showdown in Chinatown]]<br>'''[[Showdown in Chinatown]]'''
+|April 24th, 05:00 - May 29th, 2025, 04:59 (UTC-5)
+|[[Version 2.5|2.5]]
+|-
+|[[File:Folie et Déraison Banner.png|400px|link=Folie et Déraison (Event)]]<br>'''[[Folie et Déraison (Event)|Folie et Déraison]]'''
+|May 29th, 05:00 - June 30th, 2025, 04:59 (UTC-5)
+|[[Version 2.6|2.6]]
+|-
+|[[File:1987 Cosmic Overture Banner.png|400px|link=1987 Cosmic Overture]]<br>'''[[1987 Cosmic Overture]]'''
+|July 3rd, 05:00 - August 4th, 2025, 04:59 (UTC-5)
+|[[Version 2.7|2.7]]
+|-
+|[[File:La Primavera di Firenze Banner.png|400px|link=La Primavera di Firenze]]<br>'''[[La Primavera di Firenze]]'''
+|August 7th, 05:00 - September 15th, 2025, 04:59 (UTC-5)
+| rowspan="2" | [[Version S01|S01]]
+|-
+|[[File:Drama in Athens Banner.png|400px|link=Drama in Athens]]<br>'''[[Drama in Athens]]'''
+|August 28th, 05:00 - September 19th, 2025, 04:59 (UTC-5)
+|-
+|[[File:Paradise Regained Banner.png|400px|link=Paradise Regained (Event)]] <br> '''[[Paradise Regained (Event)|Paradise Regained]]'''
+|September 19th, 05:00 - October 27th, 2025, 04:59 (UTC-5)
+|[[Version 2.8|2.8]]
+|-
+|[[File:A Long Long Way Banner.png|400px|link=A Long Long Way (Event)]] <br> '''[[A Long Long Way (Event)|A Long Long Way]]'''
+|October 30th, 05:00 - December 8th, 2025, 04:59 (UTC-5)
+|[[Version 3.0|3.0]]
+|-
+|[[File:The Midnight Whistle Banner.png|400px|link=The Midnight Whistle]] <br> '''[[The Midnight Whistle]]'''
+|December 11th, 2025, 05:00 - January 19th, 2026, 04:59 (UTC-5)
+|[[Version 3.1|3.1]]
+|-
+|[[File:A Flowing Feast Banner.png|400px|link=A Flowing Feast]] <br> '''[[A Flowing Feast]]'''
+|January 20th, 05:00 - March 2nd, 2026, 04:59 (UTC-5)
+|[[Version 3.2|3.2]]
+|-
+|[[File:The Campaign's Tale Banner.png|400px|link=The Campaign's Tale (Event)]] <br> '''[[The Campaign's Tale (Event)|The Campaign's Tale]]'''
+|March 5th, 05:00 - April 13th, 2026, 04:59 (UTC-5)
+|[[Version 3.3|3.3]]
+|-
+|[[File:Spring Unending Banner.png|400px|link=Spring Unending]] <br> '''[[Spring Unending]]'''
+|April 16th, 05:00 - May 25th, 2026, 04:59 (UTC-5)
+|[[Version 3.4|3.4]]
+|-
+|[[File:The Turquoise Serpent Club Banner.png|400px|link=The Turquoise Serpent Club]] <br> '''[[The Turquoise Serpent Club]]'''
+|May 28th, 05:00 - June 29th, 2026, 04:59 (UTC-5)
+|[[Version 3.5|3.5]]
+|-
+|[[File:Last and First Principles Banner.png|400px|link=Last and First Principles]] <br> '''[[Last and First Principles]]'''
+|July 2nd, 05:00 - July 22nd, 2026, 04:59 (UTC-5)
+|[[Version 3.6|3.6]]
+|-
+|[[File:Polymerized Dreams Banner.png|400px|link=Polymerized Dreams]] <br> '''[[Polymerized Dreams]]'''
+|July 23rd, 05:00 - August 12th, 2026, 04:59 (UTC-5)
+|[[Version S02|S02]]
+|-
+|[[File:On Another's Sorrow Banner.png|400px|link=On Another's Sorrow]] <br> '''[[On Another's Sorrow]]'''
+|August 13th, 05:00 - September 21st, 2026, 04:59 (UTC-5)
+|[[Version 3.7|3.7]]
+|}
+
+==Character Story Events==
+Character story events are focused on the new 6-star characters each version and acts as their solo story to give the player more information regarding them.
+{| class="wikitable sortable" style="width: 100%; font-size: 100%; text-align: center;"
+! width="35%" |Event
+! width="40%" |Time Period
+! width="5%" |Version
+|-
+|[[File:Thief of the Thieves_Banner.jpg|400px|link=Thief of the Thieves]] <br> '''[[Thief of the Thieves]]'''
+| November 9th, 05:00 - November 23rd, 2023, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.1|1.1]]
+|-
+|[[File:The Puppy and The Hippie_Banner.jpg|400px|link=The Puppy and The Hippie]] <br> '''[[The Puppy and The Hippie]]'''
+| November 23rd, 05:00 - December 7th, 2023, 04:59 (UTC-5)
+|-
+|[[File:The Old Teeth and The Worn Marks_Banner.png|400px|link=The Old Teeth and The Worn Marks]] <br> '''[[The Old Teeth and The Worn Marks]]'''
+| December 7th, 05:00 - December 28th, 2023, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.2|1.2]]
+|-
+|[[File:One Flew Over the Old House_Banner.png|400px|link=One Flew Over the Old House]] <br> '''[[One Flew Over the Old House]]'''
+| December 28th, 2023, 05:00 - January 18th, 2024, 04:59 (UTC-5) 
+|-
+|[[File:Between Dusts and Stars Banner.png|400px|link=Between Dusts and Stars]] <br> '''[[Between Dusts and Stars]]'''
+|January 18th, 05:00 - February 8th, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.3|1.3]]
+|-
+|[[File:Bells Echoing in the Valley Banner.png|400px|link=Bells Echoing in the Valley]] <br> '''[[Bells Echoing in the Valley]]'''
+| February 8th, 05:00 - February 29th, 2024, 04:59 (UTC-5)
+|-
+|[[File:As the Sand Remembered Banner.png|400px|link=As the Sand Remembered]]<br>'''[[As the Sand Remembered]]'''
+|February 29th, 05:00 - March 28th, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.4|1.4]]
+|-
+|[[File:Trudge in the Long Night Banner.png|400px|link=Trudge in the Long Night]]<br>'''[[Trudge in the Long Night]]'''
+|March 28th, 05:00 - April 18th, 2024, 04:59 (UTC-5)
+|-
+|[[File:Reunion of Fires Banner.png|400px|link=Reunion of Fires]]<br>'''[[Reunion of Fires]]'''
+|April 18th, 05:00 - May 9th, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.5|1.5]]
+|-
+|[[File:As the Driven Snow Falls Banner.png|400px|link=As the Driven Snow Falls]]<br>'''[[As the Driven Snow Falls]]'''
+|May 9th, 05:00 - May 30th, 2024, 04:59 (UTC-5)
+|-
+|[[File:Light to the Tavern Banner.png|400px|link=Light to the Tavern]]<br>'''[[Light to the Tavern]]'''
+|May 30th, 05:00 - July 11th, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.6|1.6]]
+|-
+|[[File:Flowing in the Wind Banner.png|400px|link=Flowing in the Wind]]<br>'''[[Flowing in the Wind]]'''
+|June 20th, 05:00 - July 11th, 2024, 04:59 (UTC-5)
+|-
+|[[File:The Small Room Banner.png|400px|link=The Small Room]]<br>'''[[The Small Room]]'''
+| July 11th, 05:00 - August 1st, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.7|1.7]]
+|-
+|[[File:The Tall Lighthouse Banner.png|400px|link=The Tall Lighthouse]]<br>'''[[The Tall Lighthouse]]'''
+|August 1st, 05:00 - August 15th, 2024, 04:59 (UTC-5)
+|-
+|[[File:Dawn Arrives as Usual Banner.png|400px|link=Dawn Arrives as Usual]]<br>'''[[Dawn Arrives as Usual]]'''
+|August 15th, 05:00 - August 29th, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.8|1.8]]
+|-
+|[[File:Silver Knot Banner.png|400px|link=Silver Knot]]<br>'''[[Silver Knot]]'''
+| August 29th, 05:00 - September 19th, 2024, 04:59 (UTC-5)
+|-
+|[[File:Flying to the Past Banner.png|400px|link=Flying to the Past]] <br> '''[[Flying to the Past]]'''
+|September 19th, 05:00 - October 31st, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.9|1.9]]
+|-
+|[[File:Through the Glass Banner.png|400px|link=Through the Glass]] <br> '''[[Through the Glass]]'''
+|October 10th, 05:00 - October 31st, 2024, 04:59 (UTC-5) 
+|-
+|[[File:On the Thousandth Night Banner.png|400px|link=On the Thousandth Night]] <br> '''[[On the Thousandth Night]]'''
+| October 31st, 05:00 - November 21st, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 2.0|2.0]]
+|-
+|[[File:The San Francisco Kids Banner.png|400px|link=The San Francisco Kids]] <br> '''[[The San Francisco Kids]]'''
+|November 21st, 05:00 - December 5th, 2024, 04:59 (UTC-5)
+|-
+|[[File:Bedtime Story Banner.png|400px|link=Bedtime Story]] <br> '''[[Bedtime Story]]'''
+| December 5th, 05:00 - December 26th, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 2.1|2.1]]
+|-
+|[[File:The Red Wall Banner.png|400px|link=The Red Wall]] <br> '''[[The Red Wall]]'''
+| December 26th, 2024, 05:00 - January 9th, 2025, 04:59 (UTC-5)
+|-
+|[[File:The Overcast October Banner.png|400px|link=The Overcast October]] <br> '''[[The Overcast October]]'''
+| January 9th, 05:00 - February 20th, 2025, 04:59 (UTC-5)
+| rowspan="2" |[[Version 2.2|2.2]]
+|-
+|[[File:Into the Rainforest Banner.png|400px|link=Into the Rainforest]] <br> '''[[Into the Rainforest]]'''
+| January 30th, 05:00 - February 20th, 2025, 04:59 (UTC-5)
+|-
+|[[File:Shadow of the Sun Banner.png|400px|link=Shadow of the Sun]] <br> '''[[Shadow of the Sun]]'''
+| February 20th, 05:00 - March 6th, 2025, 04:59 (UTC-5)
+| rowspan="2" |[[Version 2.3|2.3]]
+|-
+|[[File:Night Escapades on Cross Street Banner.png|400px|link=Night Escapades on Cross Street]] <br> '''[[Night Escapades on Cross Street]]'''
+| March 6th, 05:00 - March 27th, 2025, 04:59 (UTC-5)
+|-
+|[[File:Beyond the Coastline Banner.png|400px|link=Beyond the Coastline]] <br> '''[[Beyond the Coastline]]'''
+| March 27th, 05:00 - April 10th, 2025, 04:59 (UTC-5)
+| rowspan="2" |[[Version 2.4|2.4]]
+|-
+|[[File:Nukutaeao Building Paradise Banner.png|400px|link=Nukutaeao: Building Paradise!]] <br> '''[[Nukutaeao: Building Paradise!]]'''
+| April 10th, 05:00 - April 24th, 2025, 04:59 (UTC-5)
+|-
+|[[File:Sow and Reap Banner.png|400px|link=Sow and Reap]]<br>'''[[Sow and Reap]]'''
+| April 24th, 05:00 - May 29th, 2025, 04:59 (UTC-5)
+| rowspan="2" |[[Version 2.5|2.5]]
+|-
+|[[File:The Great Trickster Banner.png|400px|link=The Great Trickster]]<br>'''[[The Great Trickster]]'''
+| May 8th, 05:00 - May 29th, 2025, 04:59 (UTC-5)
+|-
+|[[File:Ruinas Gloriosas y Directrices de Metáforas Banner.png|400px|link=Ruinas Gloriosas y Directrices de Metáforas]]<br>'''[[Ruinas Gloriosas y Directrices de Metáforas]]'''
+| May 29th, 05:00 - June 19th, 2025, 04:59 (UTC-5)
+| rowspan="2" |[[Version 2.6|2.6]]
+|-
+|[[File:The Answering Machine, the Butterfly, and the Literary Critic Banner.png|400px|link=The Answering Machine, the Butterfly, and the Literary Critic]]<br>'''[[The Answering Machine, the Butterfly, and the Literary Critic]]'''
+| June 19th, 05:00 - July 3rd, 2025, 04:59 (UTC-5)
+|-
+|[[File:Gap Month Banner.png|400px|link=Gap Month]]<br>'''[[Gap Month]]'''
+| July 3rd, 05:00 - July 24th, 2025, 04:59 (UTC-5)
+| rowspan="2" |[[Version 2.7|2.7]]
+|-
+|[[File:Doomsday & The Days After Banner.png|400px|link=Doomsday & The Day After]]<br>'''[[Doomsday & The Days After]]'''
+| July 24th, 05:00 - August 7th, 2025, 04:59 (UTC-5)
+|-
+|[[File:In Her Own Reflection Banner.png|400px|link=In Her Own Reflection]]<br>'''[[In Her Own Reflection]]'''
+| September 19th, 05:00 - October 30th, 2025, 04:59 (UTC-5)
+| rowspan="2" |[[Version 2.8|2.8]]
+|-
+|[[File:A Moment on the White Expanse Banner.png|400px|link=A Moment on the White Expanse]]<br>'''[[A Moment on the White Expanse]]'''
+| October 9th, 05:00 - October 30th, 2025, 04:59 (UTC-5)
+|-
+|[[File:Dawn Rises Over the Kill Zone Banner.png|400px|link=Dawn Rises Over the Kill Zone]] <br> '''[[Dawn Rises Over the Kill Zone]]'''
+| October 30th, 05:00 - November 20th, 2025, 04:59 (UTC-5)
+| rowspan="2" |[[Version 3.0|3.0]]
+|-
+|[[File:Fuga a 3 Soggetti Banner.png|400px|link=Fuga a 3 Soggetti]] <br> '''[[Fuga a 3 Soggetti]]'''
+| November 20th, 05:00 - December 11th, 2025, 04:59 (UTC-5)
+|-
+|[[File:A Shadow's Weight Banner.png|400px|link=A Shadow's Weight]] <br> '''[[A Shadow's Weight]]'''
+| December 11th, 2025, 05:00 - January 1st, 2026, 04:59 (UTC-5)
+| rowspan="2" |[[Version 3.1|3.1]]
+|-
+|[[File:Cold Steel Banner.png|400px|link=Cold Steel]] <br> '''[[Cold Steel]]'''
+| January 1st, 05:00 - January 20th, 2026, 04:59 (UTC-5)
+|-
+|[[File:The Long Rain of Fate Banner.png|400px|link=The Long Rain of Fate]] <br> '''[[The Long Rain of Fate]]'''
+| January 20th, 05:00 - March 5th, 2026, 04:59 (UTC-5)
+| rowspan="2" |[[Version 3.2|3.2]]
+|-
+|[[File:An Unheated Gem Banner.png|400px|link=An Unheated Gem]] <br> '''[[An Unheated Gem]]'''
+| February 12th, 05:00 - March 5th, 2026, 04:59 (UTC-5)
+|-
+|[[File:In the Name of Chivalry Banner.png|400px|link=In the Name of Chivalry]] <br> '''[[In the Name of Chivalry]]'''
+| March 5th, 05:00 - March 26th, 2026, 04:59 (UTC-5)
+| rowspan="2" |[[Version 3.3|3.3]]
+|-
+|[[File:Into the Maelstrom Banner.png|400px|link=Into the Maelstrom]] <br> '''[[Into the Maelstrom]]'''
+| March 26th, 05:00 - April 16th, 2026, 04:59 (UTC-5)
+|-
+|[[File:Spring Comes Slowly Banner.png|400px|link=Spring Comes Slowly]] <br> '''[[Spring Comes Slowly]]'''
+| April 16th, 05:00 - May 28th, 2026, 04:59 (UTC-5)
+| rowspan="2" |[[Version 3.4|3.4]]
+|-
+|[[File:To Slay a Tiger Banner.png|400px|link=To Slay a Tiger]] <br> '''[[To Slay a Tiger]]'''
+| May 7th, 05:00 - May 28th, 2026, 04:59 (UTC-5)
+|-
+|[[File:Counterpoint of Life and Death Banner.png|400px|link=Counterpoint of Life and Death]] <br> '''[[Counterpoint of Life and Death]]'''
+| May 28th, 05:00 - June 18th, 2026, 04:59 (UTC-5)
+| rowspan="2" |[[Version 3.5|3.5]]
+|-
+|[[File:Whirling Blooms Banner.png|400px|link=Whirling Blooms]] <br> '''[[Whirling Blooms]]'''
+| June 18th, 05:00 - July 2nd, 2026, 04:59 (UTC-5)
+|-
+|[[File:Complete Induction Banner.jpg|400px|link=Complete Induction]] <br> '''[[Complete Induction]]'''
+| July 2nd, 05:00 - July 23rd, 2026, 04:59 (UTC-5)
+| [[Version 3.6|3.6]]
+|-
+|[[File:The You That's Meant to Be Banner.png|400px|link=The You That's Meant to Be]] <br> '''[[The You That's Meant to Be]]'''
+| August 13th, 05:00 - September 24th, 2026, 04:59 (UTC-5)
+| rowspan="2" |[[Version 3.7|3.7]]
+|-
+|[[File:A Stranger to Memory Lane Banner.png|400px|link=A Stranger to Memory Lane]] <br> '''[[A Stranger to Memory Lane]]'''
+| September 3rd, 05:00 - September 24th, 2026, 04:59 (UTC-5)
+|}
+
+==Side Events==
+Side events usually went side by side with the new 6-star characters as they served as a mini mission gameplay. 
+{| class="wikitable sortable" style="width: 100%; font-size: 100%; text-align: center;"
+! width="35%" |Event 
+! width="40%" |Time Period 
+! width="5%" |Version
+|-
+|[[File:Bio of the Great Thief_Banner.jpg|400px|link=Bio of the Great Thief]] <br> '''[[Bio of the Great Thief]]'''
+|November 9th, 05:00 - November 23rd, 2023, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.1|1.1]]
+|-
+|[[File:Pickles's Free Translation_Banner.jpg|400px|link=Pickles's Free Translation]] <br> '''[[Pickles's Free Translation]]'''
+|November 23rd, 05:00 - December 7th, 2023, 04:59 (UTC-5)
+|-
+|[[File:Camping Safety Guide_Banner.png|400px|link=Camping Safety Guide]] <br> '''[[Camping Safety Guide]]'''
+|December 7th, 05:00 - December 21st, 2023, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.2|1.2]]
+|-
+|[[File:A Tooth for a Tooth_Banner.png|400px|link=A Tooth for a Tooth]] <br> '''[[A Tooth for a Tooth]]'''
+|December 28th, 2023, 05:00 - January 11th, 2024, 04:59 (UTC-5)
+|-
+|[[File:Home Practice Banner.png|400px|link=Home Practice]] <br> '''[[Home Practice]]'''
+| January 18th, 05:00 - February 1st, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.3|1.3]]
+|-
+|[[File:Shamane's Left Arm Banner.png|400px|link=Shamane's Left Arm]] <br> '''[[Shamane's Left Arm]]'''
+|February 8th, 05:00 - February 22nd, 2024, 04:59 (UTC-5)
+|-
+|[[File:Set Sail Again Banner.png|400px|link=Set Sail Again]]<br>'''[[Set Sail Again]]'''
+|February 29th, 05:00 - March 14th, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.4|1.4]]
+|-
+|[[File:Sealed Records Banner.png|400px|link=Sealed Records]]<br>'''[[Sealed Records]]'''
+|March 28th, 05:00 - April 11th, 2024, 04:59 (UTC-5)
+|-
+|[[File:The Game News Banner.png|400px|link=The Game News]]<br>'''[[The Game News]]'''
+|April 18th, 05:00 - May 2nd, 2024, 04:59 (UTC-5)
+| rowspan="2" |[[Version 1.5|1.5]]
+|-
+|[[File:Blazing RPS Arena Banner.png|400px|link=Blazing RPS Arena]]<br>'''[[Blazing RPS Arena]]'''
+|May 9th, 05:00 - May 30th, 2024, 04:59 (UTC-5)
+|-
+|[[File:Echoes in the Mountain Banner.png|400px|link=Echoes in the Mountain]]<br>'''[[Echoes in the Mountain]]'''
+|June 8th, 05:00 - July 11th, 2024, 04:59 (UTC-5)
+|[[Version 1.6|1.6]]
+|-
+|[[File:Puppet Arena Title.png|400px|link=Puppet Arena]]<br>'''[[Puppet Arena]]'''
+|February 20th, 05:00 - March 27th, 04:59 (UTC-5)
+|[[Version 2.3|2.3]]
+|-
+|[[File:From the Depths of Space.png|400px|link=From the Depths of Space]]<br>'''[[From the Depths of Space]]'''
+|March 27th, 05:00 - April 24th, 2025, 04:59 (UTC-5)
+|[[Version 2.4|2.4]]
+|-
+|[[File:When the Alarm Sounds Banner.png|400px|link=When the Alarm Sounds]] <br>'''[[When the Alarm Sounds]]'''
+|May 1st, 05:00 - May 29th, 2025, 04:59 (UTC-5)
+|[[Version 2.5|2.5]]
+|-
+|[[File:When the Alarm Sounds 2.7 Banner.png|400px|link=When the Alarm Sounds]] <br> '''[[When the Alarm Sounds]]'''
+|July 17th, 05:00 - August 7th, 2025, 04:59 (UTC-5)
+|[[Version 2.7|2.7]]
+|-
+|[[File:Pre-Storm Protocol Banner.png|400px|link=Pre-Storm Protocol]]<br>'''[[Pre-Storm Protocol]]'''
+|September 19th, 05:00 - October 30th, 2025, 04:59 (UTC-5)
+| rowspan="2" | [[Version 2.8|2.8]]
+|-
+|[[File:When the Alarm Sounds 2.8 Banner.png|400px|link=When the Alarm Sounds]] <br> '''[[When the Alarm Sounds]]'''
+|October 9th, 05:00 - October 30th, 2025, 04:59 (UTC-5)
+|-
+|[[File:Pre-Storm Protocol 3.1 Banner.png|400px|link=Pre-Storm Protocol (3.1)]] <br> '''[[Pre-Storm Protocol (3.1)|Pre-Storm Protocol]]'''
+|December 20th, 2025, 05:00 - January 20th, 2026, 04:59 (UTC-5)
+|[[Version 3.1|3.1]]
+|-
+|[[File:Pre-Storm Protocol 3.4 Banner.png|400px|link=Pre-Storm Protocol (3.4)]] <br> '''[[Pre-Storm Protocol (3.4)|Pre-Storm Protocol]]'''
+|May 1st, 05:00 - May 28th, 2026, 04:59 (UTC-5)
+|[[Version 3.4|3.4]]
+|-
+|[[File:Pre-Storm Protocol 3.5 Banner.png|400px|link=Pre-Storm Protocol (3.5)]] <br> '''[[Pre-Storm Protocol (3.5)|Pre-Storm Protocol]]'''
+|May 28th, 05:00 - July 2nd, 2026, 04:59 (UTC-5)
+|[[Version 3.5|3.5]]
+|-
+|[[File:Truth a Posteriori Banner.png|400px|link=Truth a Posteriori]] <br> '''[[Truth a Posteriori]]'''
+|August 22nd, 05:00 - September 24th, 2026, 04:59 (UTC-5)
+|[[Version 3.7|3.7]]
+|}
+
+==Time-Limited Events==
+UTTU events are time-limited UTTU gameplays meant to challenge the player and in turn give them great rewards.
+{| class="wikitable sortable" style="width: 100%; font-size: 100%; text-align: center;"
+! width="35%" |Event 
+! width="40%" |Time Period 
+! width="5%" |Version
+|-
+|[[File:Trophy of the Past Glory_Banner.jpg|400px|link=Trophy of the Past Glory]] <br> '''[[Trophy of the Past Glory|UTTU Flash Gathering: Trophy of the Past Glory]]'''
+|November 23rd, 05:00 - December 7th, 2023, 04:59 (UTC-5) 
+|[[Version 1.1|1.1]]
+|-
+|[[File:A Night Visit to the Lake_Banner.png|400px|link=A Night Visit to the Lake]] <br> '''[[A Night Visit to the Lake|UTTU Flash Gathering: A Night Visit to the Lake]]'''
+|December 28th, 05:00 - January 18th, 2024, 04:59 (UTC-5)
+|[[Version 1.2|1.2]]
+|-
+|[[File:The First Epic Banner.png|400px|link=The First Epic]] <br> '''[[The First Epic|UTTU Flash Gathering: The First Epic]]'''
+|February 8th, 05:00 - February 29th, 2024, 04:59 (UTC-5)
+|[[Version 1.3|1.3]]
+|-
+|[[File:Wandering on the Shore Banner.png|400px|link=Wandering on the Shore]]<br>'''[[Wandering on the Shore|UTTU Flash Gathering: Wandering on the Shore]]'''
+|March 28th, 05:00 - April 11th, 2024, 04:59 (UTC-5)
+|[[Version 1.4|1.4]]
+|-
+|[[File:The Epic of Runners Banner.png|400px|link=The Epic of Runners]]<br>'''[[The Epic of Runners|UTTU Flash Gathering: The Epic of Runners]]'''
+|May 9th, 05:00 - May 23th, 2024, 04:59 (UTC-5)
+|[[Version 1.5|1.5]]
+|-
+|[[File:The Story of a Besieged Town Banner.png|400px|link=The Story of a Besieged Town]]<br>'''[[The Story of a Besieged Town|UTTU Flash Gathering: The Story of a Besieged Town]]'''
+|June 20th, 05:00 - July 4th, 2024, 04:59 (UTC-5)
+|[[Version 1.6|1.6]]
+|-
+|[[File:Beyond the Ring Banner.png|400px|link=Beyond the Ring]]<br>'''[[Beyond the Ring|UTTU Spotlight Edition: Beyond the Ring]]'''
+|August 1st, 05:00 - August 15th, 2024, 04:59 (UTC-5)
+|[[Version 1.7|1.7]]
+|-
+|[[File:Polar Town Banner.png|400px|link=Polar Town]]<br>'''[[Polar Town|UTTU Spotlight Edition: Polar Town]]'''
+|August 29th, 05:00 - September 19th, 2024, 04:59 (UTC-5)
+|[[Version 1.8|1.8]]
+|-
+|[[File:Fire Thieves Banner.png|400px|link=Fire Thieves]] <br> '''[[Fire Thieves|UTTU Spotlight Edition: Fire Thieves]]'''
+| October 10th, 05:00 - October 24th, 2024, 04:59 (UTC-5)
+|[[Version 1.9|1.9]]
+|-
+|[[File:Midnight Mayhem Banner.png|400px|link=Midnight Mayhem]]<br>'''[[Midnight Mayhem|UTTU Spotlight Edition: Midnight Mayhem]]'''
+|November 21st, 05:00 - December 5th, 2024, 04:59 (UTC-5)
+|[[Version 2.0|2.0]]
+|-
+|[[File:Stories on the Route Banner.png|400px|link=Stories on the Route]]<br>'''[[Stories on the Route|UTTU Spotlight Edition: Stories on the Route]]'''
+|December 26th, 2024, 05:00 - January 9th, 2025, 04:59 (UTC-5)
+| [[Version 2.1|2.1]]
+|-
+|[[File:Phototaxis- In Study - Mask On Banner.png|400px|link=Phototaxis In Study: Mask On]] <br> '''[[Mask On]]'''
+|January 30th, 05:00 - February 20th, 2025, 04:59 (UTC-5)
+|[[Version 2.2|2.2]]
+|-
+|[[File:Tourney in the Fog Banner.png|400px|link=Tourney in the Fog]] <br> '''[[Tourney in the Fog|UTTU Spotlight Edition: Tourney in the Fog]]
+|March 6th, 05:00 - March 20th, 2025, 04:59 (UTC-5)
+|[[Version 2.3|2.3]]
+|-
+|[[File:Phototaxis- In Study - Besides the Eclipse Banner.png|400px|link=Besides the Eclipse]] <br> '''[[Besides the Eclipse|Phototaxis In Study: Besides the Eclipse]]
+|April 10th, 05:00 - April 24th, 2025, 04:59 (UTC-5)
+|[[Version 2.4|2.4]]
+|-
+|[[File:Critter Crash Banner.png|400px|link=Critter Crash]]<br>'''[[Critter Crash]]'''
+|April 24th, 05:00 - May 29th, 2025, 04:59 (UTC-5)
+|[[Version 2.5|2.5]]
+|-
+|[[File:Phototaxis- In Study - Beyond the Boundaries Banner.png|400px|link=Beyond the Boundaries]] <br> '''[[Beyond the Boundaries|Phototaxis In Study: Beyond the Boundaries]]
+|June 18th, 05:00 - July 2nd, 2025, 04:59 (UTC-5)
+|[[Version 2.6|2.6]]
+|-
+|[[File:Friendly Match Banner.png|400px|link=Puppet Arena - Friendly Match]]<br>'''[[Puppet Arena - Friendly Match]]'''
+|July 5th, 05:00 - August 7th, 2025, 04:59 (UTC-5)
+|[[Version 2.7|2.7]]
+|-
+|[[File:Critter Crash Strategic Team-Building Mode Banner.png|400px|link=Critter Crash 2.8]]<br>'''[[Critter Crash 2.8|Critter Crash]]'''
+|September 25th, 05:00 - October 30th, 2025, 04:59 (UTC-5)
+|[[Version 2.8|2.8]]
+|-
+|[[File:Ruins and Renewal Banner.png|400px|link=Ruins and Renewal]]<br>'''[[Ruins and Renewal|UTTU Flash Gathering: Ruins and Renewal]]'''
+|November 20th, 05:00 - December 11th, 2025, 04:59 (UTC-5)
+|[[Version 3.0|3.0]] 
+|-
+|[[File:Artefact Masters Banner.png|400px|link=Puppet Arena - Artefact Masters]]<br>'''[[Puppet Arena - Artefact Masters]]
+|January 1st, 05:00 - January 20th, 2026, 04:59 (UTC-5)
+|[[Version 3.1|3.1]]
+|-
+|[[File:Critter Crash Rimet Cup Sticker Edition Banner.png|400px|link=Critter Crash 3.2]] <br> '''[[Critter Crash 3.2|Critter Crash]]'''
+|February 12th, 05:00 - March 5th, 2026, 04:59 (UTC-5)
+|[[Version 3.2|3.2]]
+|-
+|[[File:8-Bit Arcade Remix Banner.png|400px|link=8-Bit Arcade Remix]] <br> '''[[8-Bit Arcade Remix]]'''
+|March 26th, 05:00 - April 16th, 2026, 04:59 (UTC-5)
+|[[Version 3.3|3.3]]
+|-
+|[[File:Musae's Arcade Banner.png|400px|link=Musae's Arcade]] <br> '''[[Musae's Arcade]]'''
+|April 16th, 05:00 - May 28th, 2026, 04:59 (UTC-5)
+|[[Version 3.4|3.4]]
+|-
+|[[File:Critter Crash 3.5 Banner.png|400px|link=Critter Crash 3.5]] <br> ''' [[Critter Crash 3.5|Critter Crash]]'''
+|May 28th, 05:00 - July 2nd, 2026, 04:59 (UTC-5)
+| rowspan="2" |[[Version 3.5|3.5]]
+|-
+|[[File:Odes to the Spirits Banner.png|400px|link=Odes to the Spirits]] <br> '''[[Odes to the Spirits]]'''
+|June 18th, 05:00 - July 2nd, 2026, 04:59 (UTC-5)
+|-
+|[[File:Back to Chelomey Banner.jpg|400px|link=Back to Chelomey]] <br> '''[[Back to Chelomey]]'''
+|July 23rd, 05:00 - August 13th, 2026, 04:59 (UTC-5)
+|[[Version S02|S02]]
+|-
+|[[File:Beach Battle Banner.png|400px|link=Beach Battle]] <br> '''[[Beach Battle|8-Bit Arcade Remix]]'''
+|August 13th, 05:00 - September 24th, 2026, 04:59 (UTC-5)
+|[[Version 3.7|3.7]]
+|}
+
+==Warm Up Events==
+Warm up events are sneak peeks of the upcoming version of the game.
+{| class="wikitable sortable" style="width: 100%; font-size: 100%; text-align: center;"
+! width="35%" |Event 
+! width="40%" |Time Period
+! width="5%" |Version
+|-
+|[[File:The Satellite Banner.png|400px|link=The Satellite]] <br> '''[[The Satellite]]'''
+|November 2nd, 05:00 - November 9th, 2023, 04:59 (UTC-5) 
+|[[Version 1.0|1.0]]
+|-
+|[[File:Mysterious Waves Banner.png|400px|link=Mysterious Waves]] <br> '''[[Mysterious Waves]]'''
+|February 22nd, 05:00 - February 29th, 2024, 04:59 (UTC-5)
+ |[[Version 1.3|1.3]]
+|-
+|[[File:Letter From the Attic Banner.png|400px|link=Letter From the Attic]]<br>'''[[Letter From the Attic]]'''
+|May 25th, 05:00 - May 30th, 2024, 04:59 (UTC-5)
+|[[Version 1.5|1.5]]
+|-
+|[[File:Andante of Music and Sound Banner.png|400px|link=Andante of Music and Sound]]<br>'''[[Andante of Music and Sound]]'''
+|July 6th, 05:00 - July 11th, 2024, 04:59 (UTC-5)
+|[[Version 1.6|1.6]]
+|-
+|[[File:Go North, Friend! Banner.png|400px|link=Go North, Friend!]]<br>'''[[Go North, Friend!]]'''
+|August 10th, 05:00 - August 15th, 2024, 04:59 (UTC-5)
+|[[Version 1.7|1.7]]
+|-
+|[[File:Just Reports Banner.png|400px|link=Just Reports]]<br>'''[[Just Reports]]'''
+ |September 14th, 05:00 - September 19th, 2024, 04:59 (UTC-5)
+|[[Version 1.8|1.8]]
+|-
+|[[File:Flea Market & Gold Rush Banner.png|400px|link=Flea Market & Gold Rush]]<br>'''[[Flea Market & Gold Rush]]'''
+|October 26th, 05:00 - October 31st, 2024, 04:59 (UTC-5)
+|[[Version 1.9|1.9]]
+|-
+|[[File:PEEK through the PEEPHOLE Banner.png|400px|link=Peek through the Peephole]]<br>'''[[Peek through the Peephole]]'''
+|November 30th, 05:00 - December 5th, 2024, 04:59 (UTC-5)
+|[[Version 2.0|2.0]]
+|-
+|[[File:Gifts_From_Across_the_Equator_Banner.png|400px|link=Gifts From Across the Equator]]<br>'''[[Gifts From Across the Equator]]'''
+|January 4th, 05:00 - January 9th, 2025, 04:59 (UTC-5)
+|[[Version 2.1|2.1]]
+|-
+|[[File:Memo- Prepare for Victory! Banner.png|400px|link=Memo: Prepare for Victory!]] <br> '''[[Memo: Prepare for Victory!]]'''
+|February 15th, 05:00 - February 20th, 2025, 04:59 (UTC-5)
+|[[Version 2.2|2.2]]
+|-
+|[[File:Anchors Aweigh, Free Breeze! Banner.png|400px|link=Anchors Aweigh, "Free Breeze"!]] <br> '''[[Anchors Aweigh, "Free Breeze"!]]'''
+|March 22th, 05:00 - March 27th, 2025, 04:59 (UTC-5)
+|[[Version 2.3|2.3]]
+|-
+|[[File:Caller ID Unknown Banner.png|400px|link=Caller ID Unknown]] <br> '''[[Caller ID Unknown]]'''
+|April 17th, 05:00 - April 24th, 2025, 04:59 (UTC-5)
+|[[Version 2.4|2.4]]
+|-
+|N/A<br>'''[[From the End of the Earth]]'''
+|May 24th, 05:00 - May 29th, 2025, 04:59 (UTC-5)
+|[[Version 2.5|2.5]]
+|-
+|N/A<br>'''[[Lab Snapshots]]'''
+|June 28th, 05:00 - July 3rd, 2025, 04:59 (UTC-5)
+|[[Version 2.6|2.6]]
+|-
+|[[File:In the Margins of History Banner.png|400px|link=In the Margins of History]]<br>'''[[In the Margins of History]]'''
+|July 31st, 05:00 - August 7th, 2025, 04:59 (UTC-5)
+|[[Version 2.7|2.7]]
+|-
+|[[File:A Message on the Roaring Wind Banner.png|400px|link=A Message on the Roaring Wind]]<br>'''[[A Message on the Roaring Winds|A Message on the Roaring Wind]]'''
+|September 12th, 05:00 - September 19th, 2025, 04:59 (UTC-5)
+|[[Version S01|S01]]
+|-
+|[[File:A Letter from No Man's Land Banner.png|400px|link=A Letter From No Man's Land]]<br>'''[[A Letter From No Man's Land]]'''
+|October 23rd, 05:00 - October 30th, 2025, 04:59 (UTC-5)
+|[[Version 2.8|2.8]]
+|-
+|[[File:Steam Whistle Prelude Banner.png|400px|link=Steam Whistle Prelude]]<br>'''[[Steam Whistle Prelude]]'''
+|December 4th, 05:00 - December 11th, 2025, 04:59 (UTC-5)
+|[[Version 3.0|3.0]]
+|-
+|[[File:Salut, Paname Banner.png|400px|link=Salut, Paname]]<br>'''[[Salut, Paname]]'''
+|January 13th, 05:00 - January 20th, 2026, 04:59 (UTC-5)
+|[[Version 3.1|3.1]]
+|-
+|[[File:The Steppe Before the Flames Banner.png|400px|link=The Steppe Before the Flames]] <br> '''[[The Steppe Before the Flames]]'''
+|February 26th, 05:00 - March 5th, 2026, 04:59 (UTC-5)
+|[[Version 3.2|3.2]]
+|-
+|[[File:"Special Issue on the East- Huanzhou Spring" Banner.png|400px|link="Special Issue on the East: Huanzhou Spring"]] <br> '''[["Special Issue on the East: Huanzhou Spring"]]'''
+|April 9th, 05:00 - April 16th, 2026, 04:59 (UTC-5)
+|[[Version 3.3|3.3]]
+|-
+|[[File:Carvings on the Sun Stone Banner.png|400px|link=Carvings on the Sun Stone]] <br> '''[[Carvings on the Sun Stone]]'''
+|May 21st, 05:00 - May 28th, 2026, 04:59 (UTC-5)
+|[[Version 3.4|3.4]]
+|-
+|[[File:Still Stands the Silver Tower Banner.png|400px|link=Still Stands the Silver Tower]] <br> '''[[Still Stands the Silver Tower]]'''
+|June 25th, 05:00 - July 2nd, 2026, 04:59 (UTC-5)
+|[[Version 3.5|3.5]]
+|-
+|[[File:Welcome to the Future Banner.png|400px|link=Welcome to the Future]] <br> '''[[Welcome to the Future]]'''
+|July 16th, 05:00 - July 23rd, 2026, 04:59 (UTC-5)
+|[[Version 3.6|3.6]]
+|-
+|[[File:Call from the Alma Mater Banner.png|400px|link=Call from the Alma Mater]] <br> '''[[Call from the Alma Mater]]'''
+|August 6th, 05:00 - August 13th, 2026, 04:59 (UTC-5)
+|[[Version S02|S02]]
+|-
+|[[File:What Does a Brick Want Banner.png|400px|link=What Does a Brick Want]] <br> '''[[What Does a Brick Want]]'''
+|September 17th, 05:00 - September 24th, 2026, 04:59 (UTC-5)
+|[[Version 3.7|3.7]]
+|}
+
+__NOTOC__
+<noinclude>
+[[Category:Events]]
+</noinclude>

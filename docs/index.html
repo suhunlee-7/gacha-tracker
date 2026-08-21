@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>가챠 트래커</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+<style>
+:root {
+  color-scheme: light;
+  --surface: #fcfcfb; --page: #f9f9f7;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --axis: #c3c2b7; --border: rgba(11,11,11,.10);
+  --zzz: #2a78d6; --arknights: #eb6834; --reverse1999: #1baf7a; --nte: #eda100;
+  --critical: #d03b3b; --warning: #fab219; --good: #0ca30c;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --surface: #1a1a19; --page: #0d0d0d;
+    --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,.10);
+    --zzz: #3987e5; --arknights: #d95926; --reverse1999: #199e70; --nte: #c98500;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--page); color: var(--ink);
+  font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  padding: 16px; max-width: 860px; margin-inline: auto;
+}
+h1 { font-size: 18px; margin: 0 0 2px; }
+.sub { color: var(--muted); font-size: 12px; margin-bottom: 16px; }
+.card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 10px; padding: 14px 16px; margin-bottom: 14px;
+}
+.card h2 { font-size: 13px; margin: 0 0 10px; color: var(--ink-2); font-weight: 600; }
+/* ZZZ 상태 타일 */
+.tiles { display: flex; flex-wrap: wrap; gap: 8px 20px; }
+.tile .v { font-size: 20px; font-weight: 700; }
+.tile .k { font-size: 11px; color: var(--muted); }
+/* 마감 임박 리스트 */
+.due { list-style: none; margin: 0; padding: 0; }
+.due li { display: flex; align-items: baseline; gap: 8px; padding: 3px 0; }
+.dday { font-weight: 700; font-size: 12px; min-width: 34px; }
+.dday.d1 { color: var(--critical); }
+.dday.d3 { color: var(--warning); }
+.due .g { font-size: 11px; color: var(--muted); min-width: 64px; }
+.due a { color: inherit; text-decoration: none; }
+.due a:hover { text-decoration: underline; }
+/* 타임라인 */
+.lane-title { display: flex; align-items: center; gap: 6px; font-weight: 600; font-size: 13px; margin: 14px 0 6px; }
+.dot { width: 9px; height: 9px; border-radius: 50%; }
+.axis { position: relative; height: 18px; margin-bottom: 2px; }
+.axis .tick { position: absolute; top: 0; font-size: 10px; color: var(--muted); transform: translateX(-50%); }
+.row { position: relative; height: 26px; margin: 3px 0; }
+.track { position: absolute; inset: 0; border-bottom: 1px solid var(--grid); }
+.bar {
+  position: absolute; top: 3px; height: 20px; border-radius: 4px;
+  opacity: .28;
+}
+.bar.live { opacity: .5; }
+.row .lbl {
+  position: absolute; top: 3px; height: 20px; line-height: 20px;
+  font-size: 11.5px; color: var(--ink); white-space: nowrap; overflow: hidden;
+  text-overflow: ellipsis; max-width: 100%; padding: 0 4px;
+}
+.row .lbl a { color: inherit; text-decoration: none; }
+.today {
+  position: absolute; top: 0; bottom: 0; width: 2px; background: var(--ink);
+  opacity: .55; z-index: 2; pointer-events: none;
+}
+.tl-wrap { position: relative; overflow: hidden; }
+.banner-tag { font-size: 10px; color: var(--ink-2); }
+/* 툴팁 */
+#tip {
+  position: fixed; z-index: 9; background: var(--surface); color: var(--ink);
+  border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px;
+  font-size: 12px; box-shadow: 0 4px 14px rgba(0,0,0,.18); pointer-events: none;
+  display: none; max-width: 260px;
+}
+#tip .t { font-weight: 600; }
+#tip .d { color: var(--ink-2); }
+.empty { color: var(--muted); }
+footer { color: var(--muted); font-size: 11px; margin-top: 20px; }
+</style>
+</head>
+<body>
+<h1>🎮 가챠 트래커</h1>
+<div class="sub" id="updated">불러오는 중…</div>
+
+<div class="card" id="zzz-card" style="display:none">
+  <h2>젠존제 상태</h2>
+  <div class="tiles" id="zzz-tiles"></div>
+</div>
+
+<div class="card">
+  <h2>⏰ 마감 임박 (7일 이내)</h2>
+  <ul class="due" id="due"></ul>
+</div>
+
+<div class="card">
+  <h2>타임라인 (오늘 −3일 ~ +42일)</h2>
+  <div id="timeline"></div>
+</div>
+
+<div id="tip"></div>
+<footer>일정 출처: 게임별 위키·커뮤니티 API — 시각은 수 시간 오차 가능. 이름을 누르면 상세(위키)로 이동.</footer>
+
+<script>
+const GAMES = { zzz: "젠존제", arknights: "명일방주", reverse1999: "리버스1999", nte: "이환" };
+const DAY = 86400000;
+const now = new Date();
+const winStart = new Date(now.getTime() - 3 * DAY);
+const winEnd = new Date(now.getTime() + 42 * DAY);
+const pct = d => Math.max(0, Math.min(100, (d - winStart) / (winEnd - winStart) * 100));
+const fmtD = d => `${d.getMonth() + 1}/${d.getDate()}(${"일월화수목금토"[d.getDay()]})`;
+const fmtDT = d => `${fmtD(d)} ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`;
+const dday = end => Math.ceil((end - now) / DAY);
+
+const tip = document.getElementById("tip");
+function showTip(ev, e) {
+  tip.innerHTML = `<div class="t">${e.kindLabel} · ${e.name}</div>
+    <div class="d">${fmtDT(e.s)} ~ ${fmtDT(e.e)}<br>${e.live ? `종료까지 D-${dday(e.e)}` : (e.s > now ? `시작까지 D-${Math.ceil((e.s - now) / DAY)}` : "종료됨")}</div>`;
+  tip.style.display = "block";
+  const x = Math.min(ev.clientX + 12, innerWidth - 280);
+  tip.style.left = x + "px"; tip.style.top = (ev.clientY + 14) + "px";
+}
+
+async function main() {
+  const payload = await fetch("data/events.json").then(r => r.json());
+  document.getElementById("updated").textContent = "마지막 갱신 " + payload.updated.slice(0, 16).replace("T", " ");
+  const events = payload.events.map(e => ({
+    ...e, s: new Date(e.start), e: new Date(e.end),
+    kindLabel: e.kind === "banner" ? "픽업" : "이벤트",
+  })).filter(e => e.e >= winStart && e.s <= winEnd);
+  events.forEach(e => e.live = e.s <= now && now < e.e);
+
+  // 마감 임박
+  const due = events.filter(e => e.live && dday(e.e) <= 7).sort((a, b) => a.e - b.e);
+  document.getElementById("due").innerHTML = due.length ? due.map(e => `
+    <li><span class="dday ${dday(e.e) <= 1 ? "d1" : dday(e.e) <= 3 ? "d3" : ""}">D-${dday(e.e)}</span>
+      <span class="g">${GAMES[e.game]}</span>
+      <a href="${e.url}" target="_blank">${e.kindLabel === "픽업" ? "🎰 " : ""}${e.name_ko || e.name}</a></li>`).join("")
+    : '<li class="empty">7일 내 마감 없음 — 여유롭다</li>';
+
+  // 타임라인 (게임별 레인)
+  const tl = document.getElementById("timeline");
+  let html = "";
+  const ticks = [];
+  for (let t = new Date(winStart); t <= winEnd; t = new Date(t.getTime() + 7 * DAY)) ticks.push(new Date(t));
+  const axisHtml = `<div class="axis">` + ticks.map(t =>
+    `<div class="tick" style="left:${pct(t)}%">${t.getMonth() + 1}/${t.getDate()}</div>`).join("") + `</div>`;
+
+  for (const [game, label] of Object.entries(GAMES)) {
+    const rows = events.filter(e => e.game === game).sort((a, b) => a.s - b.s || a.e - b.e);
+    html += `<div class="lane-title"><span class="dot" style="background:var(--${game})"></span>${label}</div>`;
+    if (!rows.length) { html += `<div class="empty" style="font-size:12px">표시할 일정 없음</div>`; continue; }
+    html += `<div class="tl-wrap">` + axisHtml + rows.map((e, i) => {
+      const l = pct(e.s), r = pct(e.e);
+      const name = e.name_ko || e.name;
+      return `<div class="row" data-i="${events.indexOf(e)}">
+        <div class="track"></div>
+        <div class="bar ${e.live ? "live" : ""}" style="left:${l}%;width:${Math.max(r - l, 1.2)}%;background:var(--${game})"></div>
+        <div class="lbl" style="left:${l}%"><a href="${e.url}" target="_blank">${e.kind === "banner" ? "🎰" : ""} ${name}${e.live ? ` <span class="banner-tag">D-${dday(e.e)}</span>` : ""}</a></div>
+      </div>`;
+    }).join("") + `<div class="today" style="left:${pct(now)}%"></div></div>`;
+  }
+  tl.innerHTML = html;
+  tl.querySelectorAll(".row").forEach(r => {
+    const e = events[+r.dataset.i];
+    r.addEventListener("mousemove", ev => showTip(ev, e));
+    r.addEventListener("mouseleave", () => tip.style.display = "none");
+  });
+
+  // ZZZ 상태 카드
+  try {
+    const z = await fetch("data/zzz_status.json").then(r => r.ok ? r.json() : null);
+    if (z && z.battery) {
+      const tiles = [];
+      tiles.push({ k: "배터리", v: `${z.battery.current}/${z.battery.max}`,
+        warn: z.battery.current >= 220 });
+      if (z.engagement) tiles.push({ k: "일일 활약도", v: `${z.engagement.current}/${z.engagement.max}`,
+        good: z.engagement.current >= z.engagement.max });
+      if (z.weekly) tiles.push({ k: "주간", v: `${z.weekly.current}/${z.weekly.max}` });
+      if (z.currencies) tiles.push({ k: "폴리크롬", v: z.currencies.polychrome.toLocaleString() });
+      const pity = (z.pity || []).find(p => p.type.includes("CHARACTER"));
+      if (pity) tiles.push({ k: "천장까지", v: pity.s_rank_in + "연" });
+      if (z.checkin && z.checkin !== "already" && !String(z.checkin).startsWith("failed"))
+        tiles.push({ k: "오늘 체크인", v: "✓ " + z.checkin });
+      document.getElementById("zzz-tiles").innerHTML = tiles.map(t =>
+        `<div class="tile"><div class="v" style="${t.warn ? "color:var(--critical)" : t.good ? "color:var(--good)" : ""}">${t.v}</div><div class="k">${t.k}</div></div>`).join("");
+      document.getElementById("zzz-card").style.display = "";
+      // 이벤트 보상 미수령 표시
+      const inc = (z.events || []).filter(e => e.max > 0 && e.obtained < e.max);
+      if (inc.length) document.getElementById("zzz-tiles").innerHTML +=
+        `<div class="tile"><div class="v">${inc.length}건</div><div class="k">보상 미수령 이벤트</div></div>`;
+    }
+  } catch (e) { /* zzz_status 없으면 카드 숨김 유지 */ }
+}
+main().catch(err => {
+  document.getElementById("updated").textContent = "데이터 로드 실패: " + err;
+});
+</script>
+</body>
+</html>

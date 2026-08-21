@@ -1,0 +1,122 @@
+{{Stub}}{{Version Infobox
+  | title=Version 1.3
+  | image=Version 1.3 Preview Special Program Announcement.png
+  |time_start        = 2026-08-19 22:00:00
+  |time_start_offset = GMT+8
+  |time_end          = 2026-09-30 17:59:59
+  | episode=
+  | banners= [[Alluring Shadows/2026-08-19|Alluring Shadows]] <br> [[The Ichi-daime/2026-08-19|The Ichi-daime]] (re-run) <br> 
+  | previous=[[Version/1.2|Version 1.2]]
+  | next=[[Version/1.4|Version 1.4]]}}
+{{Quote|"Your deepest desires... I have held them ready all along." <br> "I have turned in the rules. Everyone, it's time to play." <br> "Come. Claim your victory."|Version 1.3 Trailer}}
+
+'''Version 1.3''' is the third major post-launch update for [[Neverness to Everness]]. It will release on '''August 19, 2026'''.
+
+== Overview ==
+
+== Released Content ==
+
+=== Banners ===
+
+==== First Half (August 19 - September 9, 2026) ====
+* '''Featured S-Rank:''' [[File:Zankou Icon.png|35px]] [[Zankou]] (S-Rank {{Incantation}} Gas)
+* '''Featured S-Rank:''' [[File:Nanally Icon.png|35px]] [[Nanally]] (S-Rank {{Anima}} Plasma)
+
+==== Second Half (September 9 - September 30, 2026) ====
+* '''Featured S-Rank:''' [[File:Linko Icon.png|35px]] [[Linko]] (S-Rank {{Anima}} Plasma)
+* '''Featured S-Rank:''' [[File:Hotori Icon.png|35px]] [[Hotori]] (S-Rank {{Cosmos}} Solid)
+
+=== Playable Characters ===
+
+==== New S-Rank Characters ====
+* [[File:Zankou Icon.png|35px]] [[Zankou]] (S-Rank {{Incantation}} Gas)
+* [[File:Linko Icon.png|35px]] [[Linko]] (S-Rank {{Anima}} Plasma)
+
+=== New Costumes ===
+Zankou 
+* Zankou Default Outfit 
+* [[Autumn Vignette]]
+* [[Moonlit Courtyard]]
+* [[Red Nightshade]]
+* [[Searing Lavender]]
+* [[Twilight Noir]]
+
+Linko 
+* Linko Default Outfit 
+* [[Couch Potato]]
+* [[Faded Spring]]
+* [[Surfing Among Stars]]
+
+Chaos 
+* [[Chartered Waves]]
+
+Esper Zero 
+* [[Cloudless Summer]]
+
+Mint 
+* [[Saltwater Taffy]]
+
+Nanally 
+* [[Sunny Surf]]
+
+=== New Locations ===
+* [[Duskmoor]]
+* [[Fogden]]
+
+=== New Vehicles ===
+* [[Sirocco]]
+* [[Tide]]
+* [[Yesteryear]]
+
+=== New Gameplay Systems ===
+* [[Alluring Shadows|Alluring Shadows Limited Board]]
+* [[Surfing All Channels!|Surfing All Channels! Limited Board]]
+* Breezy Tour 
+* Brick by Brick 
+* Gauntlet of Valor 
+* Runaway Echoes 
+* Shipwreck Salvage 
+* Surf Breaker 
+* Volley Star
+
+== Quests ==
+
+=== Episode Quests (Main Story) ===
+* [[Fogden Game]]
+
+=== Spinoff Quests ===
+* None
+
+=== Guide Quests ===
+* None
+
+=== Bond Quests ===
+* New bond stories for Linko
+
+=== Side Quests ===
+* [[Beat On, the Heart of Summer]]
+
+=== Daily Quests ===
+* New daily activities tied to new systems
+
+== Events ==
+* [[Volley Star]]
+* [[Surf Breaker]]
+* [[Hunter's Crucible]]
+* [[Stamina Recharge]]
+* [[Shipwreck Salvage]]
+* [[Gold Clash]]
+* [[Runaway Echoes]]
+* [[Breezy Tour]]
+* [[Pixel Surge]]
+* [[Fons Rush]]
+
+== Gallery ==
+
+== Trivia ==
+
+* This version is the first version to feature rerun characters from past banners. Those of which being {{Character|Nanally}} and {{Character|Hotori}}.
+
+== Navigation ==
+{{Version Navbox}}
+[[Category:Version]]
