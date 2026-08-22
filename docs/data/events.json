@@ -1,20 +1,6 @@
 {
- "updated": "2026-08-22T10:58:29+09:00",
+ "updated": "2026-08-22T11:00:54+09:00",
  "events": [
-  {
-   "game": "reverse1999",
-   "kind": "event",
-   "name": "Last and First Principles",
-   "start": "2026-07-02T19:00:00+09:00",
-   "end": "2026-07-22T18:59:00+09:00",
-   "url": "https://reverse1999.fandom.com/wiki/Last_and_First_Principles",
-   "name_ko": "최후와 최초의 원리",
-   "extra": {
-    "version": "3.6",
-    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
-   },
-   "id": "reverse1999:event:last-and-first-principles:2026-07-02"
-  },
   {
    "game": "reverse1999",
    "kind": "event",
