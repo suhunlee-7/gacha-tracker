@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T11:01:42+09:00",
+ "updated": "2026-08-22T18:30:05+09:00",
  "events": [
   {
    "game": "reverse1999",
@@ -530,7 +530,7 @@
    "name_ko": "위험한 수배범과 여유로운 휴가",
    "extra": {
     "polychrome": 300,
-    "image": null
+    "image": "https://static.wikia.nocookie.net/zenless-zone-zero/images/5/53/Event_Dangerous_Fugitive%27s_Leisurely_Vacation.png/revision/latest?cb=20260822013256"
    },
    "id": "zzz:event:위험한-수배범과-여유로운-휴가:2026-08-24"
   },
