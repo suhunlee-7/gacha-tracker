@@ -1,20 +1,6 @@
 {
- "updated": "2026-08-22T18:30:05+09:00",
+ "updated": "2026-08-23T06:30:05+09:00",
  "events": [
-  {
-   "game": "reverse1999",
-   "kind": "event",
-   "name": "Complete Induction",
-   "start": "2026-07-02T19:00:00+09:00",
-   "end": "2026-07-23T18:59:00+09:00",
-   "url": "https://reverse1999.fandom.com/wiki/Complete_Induction",
-   "name_ko": "완전 귀납법",
-   "extra": {
-    "version": "3.6",
-    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
-   },
-   "id": "reverse1999:event:complete-induction:2026-07-02"
-  },
   {
    "game": "arknights",
    "kind": "event",
@@ -76,20 +62,6 @@
    "name_ko": "천 번의 가을 중 첫 번째",
    "extra": {},
    "id": "arknights:event:first-of-a-thousand-autumns:2026-07-16"
-  },
-  {
-   "game": "reverse1999",
-   "kind": "event",
-   "name": "Welcome to the Future",
-   "start": "2026-07-16T19:00:00+09:00",
-   "end": "2026-07-23T18:59:00+09:00",
-   "url": "https://reverse1999.fandom.com/wiki/Welcome_to_the_Future",
-   "name_ko": "미래로 오신 것을 환영합니다",
-   "extra": {
-    "version": "3.6",
-    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
-   },
-   "id": "reverse1999:event:welcome-to-the-future:2026-07-16"
   },
   {
    "game": "reverse1999",
