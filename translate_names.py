@@ -16,8 +16,9 @@ BATCH = 40
 def main() -> None:
     events = load_events()
     cache = names.load()
+    names.apply(events, cache)  # 접미사 폴백 포함 — 해소 안 된 것만 번역 대상
     todo = sorted({(e.game, e.name) for e in events
-                   if e.game in GAME_KO and e.name not in cache})[:BATCH]
+                   if e.game in GAME_KO and not e.name_ko})[:BATCH]
 
     if todo and shutil.which("claude"):
         items = "\n".join(f"- [{GAME_KO[g]}] {n}" for g, n in todo)
