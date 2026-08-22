@@ -4,7 +4,7 @@ from __future__ import annotations
 import traceback
 from datetime import datetime, timedelta
 
-from gacha import fetch_arknights, fetch_nte, fetch_r1999, fetch_zzz
+from gacha import fetch_arknights, fetch_nte, fetch_r1999, fetch_zzz, names
 from gacha.models import (GAME_LABELS, iso, load_events, load_state, now_kst,
                           save_events, save_state)
 from gacha.notify import notify, send_telegram
@@ -44,6 +44,7 @@ def main() -> None:
     cutoff = now - timedelta(days=30)
     merged = [e for e in merged if e.end_dt >= cutoff]
 
+    names.apply(merged, names.load())
     save_events(merged)
     state = notify(merged, state)
     save_state(state)

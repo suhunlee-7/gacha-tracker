@@ -1,6 +1,20 @@
 {
- "updated": "2026-08-22T06:30:05+09:00",
+ "updated": "2026-08-22T10:58:29+09:00",
  "events": [
+  {
+   "game": "reverse1999",
+   "kind": "event",
+   "name": "Last and First Principles",
+   "start": "2026-07-02T19:00:00+09:00",
+   "end": "2026-07-22T18:59:00+09:00",
+   "url": "https://reverse1999.fandom.com/wiki/Last_and_First_Principles",
+   "name_ko": "최후와 최초의 원리",
+   "extra": {
+    "version": "3.6",
+    "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
+   },
+   "id": "reverse1999:event:last-and-first-principles:2026-07-02"
+  },
   {
    "game": "reverse1999",
    "kind": "event",
@@ -8,7 +22,7 @@
    "start": "2026-07-02T19:00:00+09:00",
    "end": "2026-07-23T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/Complete_Induction",
-   "name_ko": null,
+   "name_ko": "완전 귀납법",
    "extra": {
     "version": "3.6",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -22,7 +36,7 @@
    "start": "2026-07-06T17:00:00+09:00",
    "end": "2026-07-27T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Languid_Sentiment",
-   "name_ko": null,
+   "name_ko": "나른한 정서",
    "extra": {},
    "id": "arknights:event:languid-sentiment:2026-07-06"
   },
@@ -33,7 +47,7 @@
    "start": "2026-07-07T23:00:00+09:00",
    "end": "2026-08-19T18:59:59+09:00",
    "url": "https://neverness-to-everness.fandom.com/wiki/Version/1.2",
-   "name_ko": null,
+   "name_ko": "버전 1.2",
    "extra": {
     "events": [
      "999 Nights",
@@ -52,7 +66,7 @@
    "start": "2026-07-16T15:00:00+09:00",
    "end": "2026-07-30T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Headhunting",
-   "name_ko": null,
+   "name_ko": "재는 재로, 세월은 세월로",
    "extra": {
     "operators": [
      "Ch'en the Dawnstreak",
@@ -73,7 +87,7 @@
    "start": "2026-07-16T17:00:00+09:00",
    "end": "2026-08-06T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns",
-   "name_ko": null,
+   "name_ko": "천 번의 가을 중 첫 번째",
    "extra": {},
    "id": "arknights:event:first-of-a-thousand-autumns:2026-07-16"
   },
@@ -84,7 +98,7 @@
    "start": "2026-07-16T19:00:00+09:00",
    "end": "2026-07-23T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/Welcome_to_the_Future",
-   "name_ko": null,
+   "name_ko": "미래로 오신 것을 환영합니다",
    "extra": {
     "version": "3.6",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -98,7 +112,7 @@
    "start": "2026-07-23T19:00:00+09:00",
    "end": "2026-08-12T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/Polymerized_Dreams",
-   "name_ko": null,
+   "name_ko": "중합된 꿈",
    "extra": {
     "version": "S02",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -112,7 +126,7 @@
    "start": "2026-07-23T19:00:00+09:00",
    "end": "2026-08-13T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/Back_to_Chelomey",
-   "name_ko": null,
+   "name_ko": "첼로메이로 돌아가서",
    "extra": {
     "version": "S02",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -206,7 +220,7 @@
    "start": "2026-07-30T15:00:00+09:00",
    "end": "2026-08-13T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Headhunting",
-   "name_ko": null,
+   "name_ko": "엔텔레키아, Mon3tr, 하루카 픽업",
    "extra": {
     "operators": [
      "Entelechia",
@@ -233,7 +247,7 @@
    "start": "2026-07-30T17:00:00+09:00",
    "end": "2026-08-20T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Vector_Breakthrough_Trial_from_Misery",
-   "name_ko": null,
+   "name_ko": "고난에서 비롯된 벡터 돌파 시련",
    "extra": {},
    "id": "arknights:event:vector-breakthrough-trial-from-misery:2026-07-30"
   },
@@ -244,7 +258,7 @@
    "start": "2026-08-06T19:00:00+09:00",
    "end": "2026-08-13T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/Call_from_the_Alma_Mater",
-   "name_ko": null,
+   "name_ko": "모교의 부름",
    "extra": {
     "version": "S02",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -272,7 +286,7 @@
    "start": "2026-08-13T15:00:00+09:00",
    "end": "2026-08-27T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Headhunting",
-   "name_ko": null,
+   "name_ko": "내 방식대로",
    "extra": {
     "operators": [
      "Bellone",
@@ -290,7 +304,7 @@
    "start": "2026-08-13T17:00:00+09:00",
    "end": "2026-08-20T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Crossing",
-   "name_ko": null,
+   "name_ko": "크로싱",
    "extra": {},
    "id": "arknights:event:crossing:2026-08-13"
   },
@@ -301,7 +315,7 @@
    "start": "2026-08-13T19:00:00+09:00",
    "end": "2026-09-21T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/On_Another%27s_Sorrow",
-   "name_ko": null,
+   "name_ko": "타인의 슬픔에 부쳐",
    "extra": {
     "version": "3.7",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -315,7 +329,7 @@
    "start": "2026-08-13T19:00:00+09:00",
    "end": "2026-09-24T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/The_You_That%27s_Meant_to_Be",
-   "name_ko": null,
+   "name_ko": "그래야 할 너",
    "extra": {
     "version": "3.7",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -329,7 +343,7 @@
    "start": "2026-08-13T19:00:00+09:00",
    "end": "2026-09-24T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/Beach_Battle",
-   "name_ko": null,
+   "name_ko": "8비트 아케이드 리믹스",
    "extra": {
     "version": "3.7",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -435,7 +449,7 @@
    "start": "2026-08-19T23:00:00+09:00",
    "end": "2026-09-30T18:59:59+09:00",
    "url": "https://neverness-to-everness.fandom.com/wiki/Version/1.3",
-   "name_ko": null,
+   "name_ko": "버전 1.3",
    "extra": {
     "events": [
      "Volley Star",
@@ -459,7 +473,7 @@
    "start": "2026-08-19T23:00:00+09:00",
    "end": "2026-09-09T13:00:00+09:00",
    "url": "https://neverness-to-everness.fandom.com/wiki/Version/1.3",
-   "name_ko": null,
+   "name_ko": "잔코우, 나날리 픽업",
    "extra": {
     "version": "1.3",
     "half": "first",
@@ -477,7 +491,7 @@
    "start": "2026-08-20T16:00:00+09:00",
    "end": "2026-09-03T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Headhunting",
-   "name_ko": null,
+   "name_ko": "만트라, 울피아누스, 나란투야 픽업",
    "extra": {
     "operators": [
      "Mantra",
@@ -502,7 +516,7 @@
    "start": "2026-08-20T17:00:00+09:00",
    "end": "2026-10-01T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Stronghold_Protocol_Alliance_Part_2",
-   "name_ko": null,
+   "name_ko": "거점 방위 프로토콜: 동맹 2부",
    "extra": {},
    "id": "arknights:event:stronghold-protocol-alliance-part-2:2026-08-20"
   },
@@ -513,7 +527,7 @@
    "start": "2026-08-22T19:00:00+09:00",
    "end": "2026-09-24T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/Truth_a_Posteriori",
-   "name_ko": null,
+   "name_ko": "후험적 진리",
    "extra": {
     "version": "3.7",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -541,7 +555,7 @@
    "start": "2026-08-27T17:00:00+09:00",
    "end": "2026-09-06T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/When_Elegies_Are_Ashes",
-   "name_ko": null,
+   "name_ko": "만가가 재가 될 때/복각",
    "extra": {},
    "id": "arknights:event:when-elegies-are-ashes-rerun:2026-08-27"
   },
@@ -566,7 +580,7 @@
    "start": "2026-09-03T19:00:00+09:00",
    "end": "2026-09-24T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/A_Stranger_to_Memory_Lane",
-   "name_ko": null,
+   "name_ko": "추억의 길 위의 이방인",
    "extra": {
     "version": null,
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -580,7 +594,7 @@
    "start": "2026-09-09T13:00:00+09:00",
    "end": "2026-09-30T18:59:59+09:00",
    "url": "https://neverness-to-everness.fandom.com/wiki/Version/1.3",
-   "name_ko": null,
+   "name_ko": "린코, 호토리 픽업",
    "extra": {
     "version": "1.3",
     "half": "second",
@@ -598,7 +612,7 @@
    "start": "2026-09-16T17:00:00+09:00",
    "end": "2026-09-30T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/People%2C_A_People",
-   "name_ko": null,
+   "name_ko": "사람들, 어떤 민족",
    "extra": {},
    "id": "arknights:event:people-a-people:2026-09-16"
   },
@@ -609,7 +623,7 @@
    "start": "2026-09-17T19:00:00+09:00",
    "end": "2026-09-24T18:59:00+09:00",
    "url": "https://reverse1999.fandom.com/wiki/What_Does_a_Brick_Want",
-   "name_ko": null,
+   "name_ko": "벽돌은 무엇을 원하는가",
    "extra": {
     "version": "3.7",
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
@@ -623,7 +637,7 @@
    "start": "2026-10-14T17:00:00+09:00",
    "end": "2026-10-28T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Critical_Phase_Transition",
-   "name_ko": null,
+   "name_ko": "임계 상전이",
    "extra": {},
    "id": "arknights:event:critical-phase-transition:2026-10-14"
   }

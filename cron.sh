@@ -5,7 +5,8 @@ export PATH="$HOME/.local/bin:$PATH"
 mkdir -p data
 
 case "$1" in
-  schedule) uv run run.py >> data/cron.log 2>&1 ;;
+  schedule) uv run run.py >> data/cron.log 2>&1
+            uv run translate_names.py >> data/cron.log 2>&1 ;;
   zzz)      uv run zzz_progress.py >> data/cron.log 2>&1 ;;
   *) echo "usage: cron.sh schedule|zzz"; exit 1 ;;
 esac
