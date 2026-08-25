@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T18:30:38+09:00",
+ "updated": "2026-08-26T06:30:15+09:00",
  "events": [
   {
    "game": "arknights",
@@ -499,7 +499,7 @@
    "start": "2026-08-27T11:00:00+09:00",
    "end": "2026-09-10T10:59:59+09:00",
    "url": "https://arknights.wiki.gg/wiki/Headhunting",
-   "name_ko": null,
+   "name_ko": "잿더미에서 돌아오다",
    "extra": {
     "operators": [
      "Necrass",
