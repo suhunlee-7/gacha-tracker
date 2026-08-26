@@ -1,17 +1,6 @@
 {
- "updated": "2026-08-26T06:30:15+09:00",
+ "updated": "2026-08-26T18:30:05+09:00",
  "events": [
-  {
-   "game": "arknights",
-   "kind": "event",
-   "name": "Languid Sentiment",
-   "start": "2026-07-06T17:00:00+09:00",
-   "end": "2026-07-27T10:59:59+09:00",
-   "url": "https://arknights.wiki.gg/wiki/Languid_Sentiment",
-   "name_ko": "나른한 정서",
-   "extra": {},
-   "id": "arknights:event:languid-sentiment:2026-07-06"
-  },
   {
    "game": "nte",
    "kind": "event",
