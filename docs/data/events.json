@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T06:30:05+09:00",
+ "updated": "2026-08-27T18:30:06+09:00",
  "events": [
   {
    "game": "nte",
@@ -40,17 +40,6 @@
     "banner_type": "festival"
    },
    "id": "arknights:banner:ashes-to-ashes-ages-on-ages:2026-07-16"
-  },
-  {
-   "game": "arknights",
-   "kind": "event",
-   "name": "First of A Thousand Autumns",
-   "start": "2026-07-16T17:00:00+09:00",
-   "end": "2026-08-06T10:59:59+09:00",
-   "url": "https://arknights.wiki.gg/wiki/First_of_A_Thousand_Autumns",
-   "name_ko": "천 번의 가을 중 첫 번째",
-   "extra": {},
-   "id": "arknights:event:first-of-a-thousand-autumns:2026-07-16"
   },
   {
    "game": "reverse1999",
