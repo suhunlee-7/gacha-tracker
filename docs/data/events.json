@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T18:30:06+09:00",
+ "updated": "2026-08-29T06:30:05+09:00",
  "events": [
   {
    "game": "nte",
@@ -526,6 +526,46 @@
     "note": "버전 이벤트 시작 = 신규 픽업 시작(동시 오픈)"
    },
    "id": "reverse1999:event:a-stranger-to-memory-lane:2026-09-03"
+  },
+  {
+   "game": "zzz",
+   "kind": "banner",
+   "name": "클라렛, 남궁우 픽업",
+   "start": "2026-09-09T11:00:00+09:00",
+   "end": "2026-09-30T12:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "클라렛, 남궁우 픽업",
+   "extra": {
+    "version": "3.2",
+    "banner_type": "GACHA_TYPE_CHARACTER_UP",
+    "agents": [
+     "클라렛",
+     "남궁우",
+     "앤톤",
+     "니콜"
+    ],
+    "icons": [
+     "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1611.png",
+     "https://act-webstatic.hoyoverse.com/game_record/zzzv2/role_square_avatar/role_square_avatar_1511.png"
+    ]
+   },
+   "id": "zzz:banner:클라렛-남궁우:2026-09-09"
+  },
+  {
+   "game": "zzz",
+   "kind": "banner",
+   "name": "디스코 데몬 픽업 (W-엔진)",
+   "start": "2026-09-09T11:00:00+09:00",
+   "end": "2026-09-30T12:59:59+09:00",
+   "url": "https://zenless-zone-zero.fandom.com/wiki/Event",
+   "name_ko": "디스코 데몬 픽업 (W-엔진)",
+   "extra": {
+    "version": "3.2",
+    "banner_type": "GACHA_TYPE_WEAPON_UP",
+    "agents": [],
+    "icons": []
+   },
+   "id": "zzz:banner:디스코-데몬:2026-09-09"
   },
   {
    "game": "nte",
